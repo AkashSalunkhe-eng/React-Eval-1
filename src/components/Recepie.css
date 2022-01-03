@@ -1,0 +1,31 @@
+.Recepie{
+    text-align: left;
+    display: grid;
+    grid-template-columns: repeat(4,24%);
+    margin: 5px;
+    grid-gap: 5px;
+    padding: 5px;
+    background-color: #548CFF;
+    
+}
+
+img{
+    width: 92%;
+    height: 100px;
+    margin-left: 7px;
+}
+
+.blocks{
+    word-wrap: break-word;
+    border: 1px solid #CFFFDC
+}
+
+p{
+    font-size: 11px;
+    margin-left: 5px;
+    color: white;
+}
+
+h3{
+    color: teal;
+}
